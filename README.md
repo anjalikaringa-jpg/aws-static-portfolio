@@ -37,8 +37,8 @@ Amazon S3 Bucket (private, static files)
 
 ## Live Demo
 
-The site is live and publicly accessible via the CloudFront URL:
-`https://d228g6nzi3y8k2.cloudfront.net/`
+The site is live and publicly accessible via CloudFront:
+[https://d228g6nzi3y8k2.cloudfront.net/](https://d228g6nzi3y8k2.cloudfront.net/)
 
 ## What I learned
 
